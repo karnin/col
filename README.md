@@ -60,6 +60,9 @@
     * memcached
     * mongodb
     * spinx
+*   hybrid
+    * appcan
+    * dcloud
 *   docker
 *   书
     * php
@@ -109,9 +112,6 @@
         * [高性能网站建设指南:前端工程师技能精髓](http://item.jd.com/1741242953.html)
         * [高性能网站建设指南:Web开发者性能优化最佳实践](http://item.jd.com/11691824.html)
         * [Web信息架构 设计大型网站（第3版）](http://item.jd.com/11345157.html)
-*   hybrid
-    * appcan
-    * dcloud
 *   第三方api
     * qq
     * 微博
