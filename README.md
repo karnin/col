@@ -54,6 +54,7 @@
     * flask
     * requests
     * Pillow
+*   nginx
 *   db
     * mysql
     * redis
